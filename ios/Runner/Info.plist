@@ -26,6 +26,10 @@
 	<string>Grant Gallery Permission</string>
 	<key>NSCameraUsageDescription</key>
     <string>Grant Camera Permission</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Allow Location Permission only when app in use</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Always allow Location Permission</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
